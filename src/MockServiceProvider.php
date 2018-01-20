@@ -7,7 +7,7 @@
  * @see      http://www.fast-d.cn/
  */
 
-namespace FastD\Mock;
+namespace FastD\MockProvider;
 
 
 use Faker\Factory;
