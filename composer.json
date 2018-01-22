@@ -1,5 +1,6 @@
 {
     "name": "fastd/mock-provider",
+    "license": "MIT",
     "authors": [
         {
             "name": "JanHuang",
